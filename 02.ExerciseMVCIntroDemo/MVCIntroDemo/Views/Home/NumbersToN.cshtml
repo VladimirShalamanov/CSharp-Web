@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Nums 1 ..." + ViewBag.Count;
+    int cnt = ViewBag.Count;
+}
+
+@if (cnt > 0)
+{
+    <h2>@ViewBag.Title</h2>
+    <ul>
+        @for (int i = 1; i <= ViewBag.Count; i++)
+        {
+            <li class="list-group">@i</li>
+        }
+    </ul>
+}
+else
+{
+    <h2>Please write positive number! Nums 1...N</h2>
+}
+
+<form asp-controller="Home" asp-action="NumbersToN" method="post">
+    <div class="row">
+        <div class="col-2">
+            <input class="form-control" type="number" min="0" step="1" name="count" />
+        </div>
+        <div class="col-2">
+            <button class="btn btn-success">Submit</button>
+        </div>
+    </div>
+</form>
