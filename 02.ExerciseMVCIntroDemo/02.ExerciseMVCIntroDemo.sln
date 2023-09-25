@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCIntroDemo", "MVCIntroDemo\MVCIntroDemo.csproj", "{F1217C69-8E3C-4DE4-A8CB-2DF200BBD5BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatApp", "ChatApp\ChatApp.csproj", "{53DB6ECE-0F25-4727-9EF2-F4A3EE2E7890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextSplitterApp", "TextSplitterApp\TextSplitterApp.csproj", "{3B44F219-106C-4176-AFEA-EAEC8513D90C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1217C69-8E3C-4DE4-A8CB-2DF200BBD5BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1217C69-8E3C-4DE4-A8CB-2DF200BBD5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1217C69-8E3C-4DE4-A8CB-2DF200BBD5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1217C69-8E3C-4DE4-A8CB-2DF200BBD5BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53DB6ECE-0F25-4727-9EF2-F4A3EE2E7890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53DB6ECE-0F25-4727-9EF2-F4A3EE2E7890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53DB6ECE-0F25-4727-9EF2-F4A3EE2E7890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53DB6ECE-0F25-4727-9EF2-F4A3EE2E7890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B44F219-106C-4176-AFEA-EAEC8513D90C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B44F219-106C-4176-AFEA-EAEC8513D90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B44F219-106C-4176-AFEA-EAEC8513D90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B44F219-106C-4176-AFEA-EAEC8513D90C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F7EE520-BA3E-442B-BB6D-3058E3D373A3}
+	EndGlobalSection
+EndGlobal
