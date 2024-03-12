@@ -1,7 +1,7 @@
 |_In this course you will look_|
 |              :--:            |
-|[ASP.NET Fundamentals](https://github.com/VladimirShalamanov/CSharp-Web/#aspnet-fundamentals)|
-|[ASP.NET Advanced](https://github.com/VladimirShalamanov/CSharp-Web/#aspnet-advanced)|
+|[ASP.NET Fundamentals](https://github.com/VladimirShalamanov/CSharp-Web#aspnet-fundamentals)|
+|[ASP.NET Advanced](https://github.com/VladimirShalamanov/CSharp-Web#aspnet-advanced)|
 |_My `ASP.NET` Advanced_ [Project](https://github.com/VladimirShalamanov/MegaCars-ASP.NET-WebProject2023)|
 
 ----
