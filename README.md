@@ -1,13 +1,13 @@
-|_In this course you will look_|
+|*In this course you will look*|
 |              :--:            |
 |[ASP.NET Fundamentals](#aspnet-fundamentals)|
 |[ASP.NET Advanced](#aspnet-advanced)|
-|_My `ASP.NET` Advanced_ [Project](https://github.com/VladimirShalamanov/MegaCars-ASP.NET-WebProject2023)|
+|*My `ASP.NET` [Project](https://github.com/VladimirShalamanov/MegaCars-ASP.NET-WebProject2023)*|
 
 ----
 
+# ASP.NET Fundamentals
 > [!NOTE]
-> # ASP.NET Fundamentals
 > In the "ASP.NET Fundamentals" course, students will lay the foundations of important principles embedded in ASP.NET. They will be introduced to the basic principles of web development, such as:
 > * HTTP protocols
 > * sessions and cookies
@@ -22,8 +22,8 @@
 
 ----
 
+# ASP.NET Advanced
 > [!NOTE]
-> # ASP.NET Advanced
 > The ASP.NET Advanced course will teach students how to build modern Web applications with the Model-View-Controller architecture using:
 > * HTML5
 > * databases
